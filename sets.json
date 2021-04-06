@@ -384,6 +384,21 @@
 		"card_set_type_code": "nemesis"
 	},
 	{
+		"code": "brotherhood_of_badoon",
+		"name": "Brotherhood of Badoon",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "ship_command",
+		"name": "Ship Command",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "band_of_badoon",
+		"name": "Band of Badoon",
+		"card_set_type_code": "modular"
+	},
+	{
 		"code": "stld",
 		"name": "Star-Lord",
 		"card_set_type_code": "hero"
