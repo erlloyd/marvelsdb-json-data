@@ -529,7 +529,8 @@
     {
         "back_text": "<b>Contents</b>: Marauders on side A <i>(side B for expert mode)</i>. Morlock Siege and Standard encounter sets. Two modular encounter sets <i>(Military Grade and Mutant Slayers)</i>.\n<b>Setup</b>: Put the Routed environment into play. Set the Hide! treachery and each Morlock ally aside. Shuffle the villains together <i>(without looking)</i> to create the villain deck. The top card of this deck is in play.",
         "base_threat": 1,
-        "code": "40077",
+        "code": "40077a",
+        "back_link": "40077b",
         "deck_limit": 1,
         "double_sided": true,
         "escalation_threat": 1,
@@ -549,10 +550,20 @@
         "type_code": "main_scheme"
     },
     {
+        "code": "40077b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Knock, Knock",
+        "pack_code": "next_evol",
+        "set_code": "morlock_siege",
+        "type_code": "main_scheme"
+    },
+    {
         "back_text": "<b>When Revealed</b>: Each player puts 1 set-aside Morlock ally into play under their control (2 set-aside Morlock allies instead if this is a single-player game). Shuffle the Hide! treachery into the encounter deck. If the previous stage was advanced by knock counters, give each Morlock ally a tough status card.",
         "base_threat": 0,
         "base_threat_fixed": true,
-        "code": "40078",
+        "code": "40078a",
+        "back_link": "40078b",
         "double_sided": true,
         "escalation_threat": 1,
         "faction_code": "encounter",
@@ -567,6 +578,15 @@
         "stage": 2,
         "text": "<b>Action</b>: Exhaust a [[MORLOCK]] ally \u2192 shuffle Hide! from the encounter discard pile into the encounter deck.\n<b>If there are 3 villains under Routed, the players win the game.\nIf this stage is completed or there are no Morlock allies in play, the players lose the game.</b>",
         "threat": 8,
+        "type_code": "main_scheme"
+    },
+    {
+        "code": "40078b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Mutant Massacre",
+        "pack_code": "next_evol",
+        "set_code": "morlock_siege",
         "type_code": "main_scheme"
     },
     {
@@ -1019,7 +1039,8 @@
     {
         "back_text": "<b>Contents</b>: Marauders on side A <i>(side B for expert mode)</i>. On the Run, Mutant Slayers, and Standard encounter sets. Two modular encounter sets <i>(Military Grade and Nasty Boys)</i>.\n<b>Setup</b>: Put 1 random [[MARAUDER]] villain into play. Remove the minion with the same title as the villain, along with each other villain, from the game. Attach the Hope's Captor attachment to the villain, [[CONFIDENT]] side up.",
         "base_threat": 1,
-        "code": "40103",
+        "code": "40103a",
+        "back_link": "40103b",
         "double_sided": true,
         "escalation_threat": 1,
         "faction_code": "encounter",
@@ -1037,10 +1058,20 @@
         "type_code": "main_scheme"
     },
     {
+        "code": "40103b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Gotta Get Away",
+        "pack_code": "next_evol",
+        "set_code": "on_the_run",
+        "type_code": "main_scheme"
+    },
+    {
         "back_flavor": "Having taken a pounding, the Marauders redouble their efforts to escape with their captive.",
         "back_text": "<b>When Revealed</b>: Each player searches the encounter deck and discard pile for a [[MARAUDER]] minion and puts that minion into play engaged with them. <i>(Shuffle.)</i> Give each [[MARAUDER]] enemy a tough status card.",
         "base_threat": 1,
-        "code": "40104",
+        "code": "40104a",
+        "back_link": "40104b",
         "double_sided": true,
         "escalation_threat": 2,
         "faction_code": "encounter",
@@ -1055,6 +1086,15 @@
         "stage": 2,
         "text": "Each [[MARAUDER]] minion gains guard and steady. In expert mode, the villain gains steady.\n<b>If the villain is defeated, the players win the game.</b>\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
+        "type_code": "main_scheme"
+    },
+    {
+        "code": "40104b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Escaping with Hope",
+        "pack_code": "next_evol",
+        "set_code": "on_the_run",
         "type_code": "main_scheme"
     },
     {
@@ -1727,6 +1767,7 @@
     {
         "back_text": "<b>Contents</b>: Mister Sinister (I) and Mister Sinister (II) <i>(Mister Sinister (II) and Mister Sinister (III) instead for expert mode)</i>. Mister Sinister, Flight, Super Strength, Telepathy, Hope Summers, and Standard encounter sets. One modular encounter set <i>(Nasty Boys)</i>.\n<b>Setup</b>: Set aside the Flight, Super Strength, and Telepathy encounter sets. Put Hope Summers into play under the first player's control.",
         "code": "40139",
+        "double_sided": true,
         "faction_code": "encounter",
         "flavor": "The secret laboratory hidden deep below the abandoned orphanage is filled with vats containing innocent mutants, subjects of Sinister's experiments.",
         "illustrator": "Denis Medri",
@@ -1745,6 +1786,7 @@
         "back_flavor": "Mister Sinister sets about incorporating another mutant's DNA into his own genome.",
         "base_threat": 1,
         "code": "40140",
+        "double_sided": true,
         "escalation_threat": 2,
         "faction_code": "encounter",
         "illustrator": "Denis Medri",
@@ -1764,6 +1806,7 @@
         "back_flavor": "Mister Sinister sets about incorporating another mutant's DNA into his own genome.",
         "base_threat": 1,
         "code": "40141",
+        "double_sided": true,
         "escalation_threat": 2,
         "faction_code": "encounter",
         "illustrator": "Denis Medri",
@@ -1783,6 +1826,7 @@
         "back_flavor": "Mister Sinister sets about incorporating another mutant's DNA into his own genome.",
         "base_threat": 1,
         "code": "40142",
+        "double_sided": true,
         "escalation_threat": 2,
         "faction_code": "encounter",
         "illustrator": "Denis Medri",
@@ -1804,6 +1848,7 @@
         "base_threat": 0,
         "base_threat_fixed": true,
         "code": "40143",
+        "double_sided": true,
         "escalation_threat": 1,
         "faction_code": "encounter",
         "flavor": "\"I should thank you,\" Sinister sneers. \"You've done what my bumbling flunkies could not: You brought me Hope.\"",
