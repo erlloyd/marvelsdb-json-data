@@ -1285,6 +1285,60 @@
         "type_code": "support"
     },
     {
+        "code": "40198",
+        "faction_code": "encounter",
+        "name": "Lady Mastermind",
+        "pack_code": "next_evol",
+        "set_code": "next_evol_campaign",  
+        "quantity": 1,
+        "type_code": "minion"
+    },
+    {
+        "code": "40199",
+        "faction_code": "encounter",
+        "name": "Malice",
+        "pack_code": "next_evol",
+        "set_code": "next_evol_campaign",  
+        "quantity": 1,
+        "type_code": "minion"
+    },
+    {
+        "code": "40200",
+        "faction_code": "encounter",
+        "name": "Scambler",
+        "pack_code": "next_evol",
+        "set_code": "next_evol_campaign",  
+        "quantity": 1,
+        "type_code": "minion"
+    },
+    {
+        "code": "40201",
+        "faction_code": "encounter",
+        "name": "Vanisher",
+        "pack_code": "next_evol",
+        "set_code": "next_evol_campaign",  
+        "quantity": 1,
+        "type_code": "minion"
+    },
+    {
+        "code": "40202",
+        "faction_code": "encounter",
+        "name": "Under Pressure",
+        "pack_code": "next_evol",
+        "set_code": "next_evol_campaign",  
+        "quantity": 1,
+        "type_code": "side_scheme"
+    },
+    {
+        "code": "40203",
+        "faction_code": "encounter",
+        "name": "Overburdened",
+        "pack_code": "next_evol",
+        "set_code": "next_evol_campaign",  
+        "quantity": 1,
+        "type_code": "treachery"
+    },
+    {
         "attack": 2,
         "attack_cost": 1,
         "code": "40204",
