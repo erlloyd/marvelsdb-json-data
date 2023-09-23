@@ -549,22 +549,7 @@
         "type_code": "main_scheme"
     },
     {
-        "back_link": "40078b",
-        "code": "40078a",
-        "faction_code": "encounter",
-        "illustrator": "Facundo Moyano",
-        "name": "Mutant Massacre",
-        "octgn_id": "104e1218-df9b-43f7-93e0-ca2ef9040078",
-        "pack_code": "next_evol",
-        "position": 78,
-        "quantity": 1,
-        "set_code": "morlock_siege",
-        "set_position": 2,
-        "stage": 2,
-        "text": "<b>When Revealed</b>: Each player puts 1 set-aside Morlock ally into play under their control (2 set-aside Morlock allies instead if this is a single-player game). Shuffle the Hide! treachery into the encounter deck. If the previous stage was advanced by knock counters, give each Morlock ally a tough status card.",
-        "type_code": "main_scheme"
-    },
-    {
+        "back_text": "<b>When Revealed</b>: Each player puts 1 set-aside Morlock ally into play under their control (2 set-aside Morlock allies instead if this is a single-player game). Shuffle the Hide! treachery into the encounter deck. If the previous stage was advanced by knock counters, give each Morlock ally a tough status card.",
         "base_threat": 0,
         "base_threat_fixed": true,
         "code": "40078b",
@@ -582,6 +567,15 @@
         "stage": 2,
         "text": "<b>Action</b>: Exhaust a [[MORLOCK]] ally \u2192 shuffle Hide! from the encounter discard pile into the encounter deck.\n<b>If there are 3 villains under Routed, the players win the game.\nIf this stage is completed or there are no Morlock allies in play, the players lose the game.</b>",
         "threat": 8,
+        "type_code": "main_scheme"
+    },
+    {
+        "code": "40078b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Mutant Massacre",
+        "pack_code": "next_evol",
+        "set_code": "morlock_siege",
         "type_code": "main_scheme"
     },
     {
@@ -1067,23 +1061,8 @@
         "type_code": "main_scheme"
     },
     {
-        "back_link": "40104b",
-        "code": "40104a",
-        "faction_code": "encounter",
-        "flavor": "Having taken a pounding, the Marauders redouble their efforts to escape with their captive.",
-        "illustrator": "Ario Murti & Indra Setiawan",
-        "name": "Escaping with Hope",
-        "octgn_id": "104e1218-df9b-43f7-93e0-ca2ef9040104",
-        "pack_code": "next_evol",
-        "position": 104,
-        "quantity": 1,
-        "set_code": "on_the_run",
-        "set_position": 2,
-        "stage": 2,
-        "text": "<b>When Revealed</b>: Each player searches the encounter deck and discard pile for a [[MARAUDER]] minion and puts that minion into play engaged with them. <i>(Shuffle.)</i> Give each [[MARAUDER]] enemy a tough status card.",
-        "type_code": "main_scheme"
-    },
-    {
+        "back_flavor": "Having taken a pounding, the Marauders redouble their efforts to escape with their captive.",
+        "back_text": "<b>When Revealed</b>: Each player searches the encounter deck and discard pile for a [[MARAUDER]] minion and puts that minion into play engaged with them. <i>(Shuffle.)</i> Give each [[MARAUDER]] enemy a tough status card.",
         "base_threat": 1,
         "code": "40104b",
         "escalation_threat": 2,
@@ -1100,6 +1079,15 @@
         "stage": 2,
         "text": "Each [[MARAUDER]] minion gains guard and steady. In expert mode, the villain gains steady.\n<b>If the villain is defeated, the players win the game.</b>\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
+        "type_code": "main_scheme"
+    },
+    {
+        "code": "40104b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Escaping with Hope",
+        "pack_code": "next_evol",
+        "set_code": "on_the_run",
         "type_code": "main_scheme"
     },
     {
