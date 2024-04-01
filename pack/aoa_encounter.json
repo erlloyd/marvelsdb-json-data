@@ -1170,7 +1170,7 @@
         "type_code": "main_scheme"
     },
     {
-        "back_link": "45105b",
+        "back_link": "45104b",
         "base_threat": 2,
         "base_threat_fixed": true,
         "code": "45104a",
@@ -1344,7 +1344,7 @@
         "set_code": "apocalypse",
         "set_position": 14,
         "text": "<b>When Defeated</b>: Discard the top X cards of the encounter deck, where X is the numeral in Apocalypse's printed hit point value.",
-        "type_code": "attachment"
+        "type_code": "side_scheme"
     },
     {
         "attack": 2,
