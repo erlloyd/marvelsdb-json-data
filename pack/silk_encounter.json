@@ -1,5 +1,15 @@
 [
     {
+        "code": "52028",
+        "faction_code": "encounter",
+        "name": "Silk Sense Overload",
+        "pack_code": "silk",
+        "position": 28,
+        "quantity": 1,
+        "set_code": "silk",
+        "type_code": "obligation"
+    },
+    {
         "attack": 1,
         "attack_star": true,
         "boost": 3,

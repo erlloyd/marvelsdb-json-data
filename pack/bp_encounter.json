@@ -1,5 +1,15 @@
 [
     {
+        "code": "51031",
+        "faction_code": "encounter",
+        "name": "T'Challa's Shadow",
+        "pack_code": "bp",
+        "position": 31,
+        "quantity": 1,
+        "set_code": "black_panther_shuri",
+        "type_code": "obligation"
+    },
+    {
         "attack": 0,
         "attack_star": true,
         "boost": 3,
