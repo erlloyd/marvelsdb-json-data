@@ -529,6 +529,16 @@
         "type_code": "main_scheme"
     },
     {
+        "code": "40078a",
+        "back_link": "40078b",
+        "faction_code": "encounter",
+        "name": "Mutant Massacre",
+        "pack_code": "next_evol",
+        "quantity": 1,
+        "set_code": "morlock_siege",
+        "type_code": "main_scheme"
+    },
+    {
         "base_threat": 1,
         "code": "40077b",
         "escalation_threat": 1,
@@ -567,15 +577,6 @@
         "stage": 2,
         "text": "<b>Action</b>: Exhaust a [[MORLOCK]] ally \u2192 shuffle Hide! from the encounter discard pile into the encounter deck.\n<b>If there are 3 villains under Routed, the players win the game.\nIf this stage is completed or there are no Morlock allies in play, the players lose the game.</b>",
         "threat": 8,
-        "type_code": "main_scheme"
-    },
-    {
-        "code": "40078b",
-        "quantity": 1,
-        "faction_code": "encounter",
-        "name": "Mutant Massacre",
-        "pack_code": "next_evol",
-        "set_code": "morlock_siege",
         "type_code": "main_scheme"
     },
     {
@@ -1082,7 +1083,8 @@
         "type_code": "main_scheme"
     },
     {
-        "code": "40104b",
+        "code": "40104a",
+        "back_link": "40104b",
         "quantity": 1,
         "faction_code": "encounter",
         "name": "Escaping with Hope",
