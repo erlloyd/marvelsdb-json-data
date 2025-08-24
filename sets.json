@@ -1589,14 +1589,29 @@
 		"name": "Winter Soldier",
 		"card_set_type_code": "hero"
 	},
-	{
-		"code": "winter_soldier_nemesis",
-		"name": "Winter Soldier Nemesis",
-		"card_set_type_code": "nemesis"
-	},
-	{
-		"code": "whiteout",
-		"name": "Whiteout",
-		"card_set_type_code": "modular"
-	}
+        {
+                "code": "winter_soldier_nemesis",
+                "name": "Winter Soldier Nemesis",
+                "card_set_type_code": "nemesis"
+        },
+        {
+                "code": "whiteout",
+                "name": "Whiteout",
+                "card_set_type_code": "modular"
+        },
+        {
+                "code": "enchantress_villain",
+                "name": "Enchantress",
+                "card_set_type_code": "villain"
+        },
+        {
+                "code": "god_of_lies",
+                "name": "God of Lies",
+                "card_set_type_code": "villain"
+        },
+        {
+                "code": "trickster_magic",
+                "name": "Trickster Magic",
+                "card_set_type_code": "modular"
+        }
 ]
