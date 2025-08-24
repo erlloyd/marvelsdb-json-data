@@ -1,0 +1,325 @@
+[
+  {
+    "code": "55001",
+    "faction_code": "encounter",
+    "name": "Enchantress (I)",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "villain"
+  },
+  {
+    "code": "55002",
+    "faction_code": "encounter",
+    "name": "Enchantress (II)",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "villain"
+  },
+  {
+    "code": "55003",
+    "faction_code": "encounter",
+    "name": "Enchantress (III)",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "villain"
+  },
+  {
+    "code": "55004a",
+    "faction_code": "encounter",
+    "name": "Prime Real Estate",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "main_scheme",
+    "back_link": "55004b"
+  },
+  {
+    "code": "55004b",
+    "faction_code": "encounter",
+    "name": "Prime Real Estate",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "main_scheme"
+  },
+  {
+    "code": "55005a",
+    "faction_code": "encounter",
+    "name": "Sovereign Sorceress",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "main_scheme",
+    "back_link": "55005b"
+  },
+  {
+    "code": "55005b",
+    "faction_code": "encounter",
+    "name": "Sovereign Sorceress",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "main_scheme"
+  },
+  {
+    "code": "55006",
+    "faction_code": "encounter",
+    "name": "Future of Despair",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55007a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment",
+    "back_link": "55007b"
+  },
+  {
+    "code": "55007b",
+    "faction_code": "encounter",
+    "name": "Trance of Envy",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55008a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment",
+    "back_link": "55008b"
+  },
+  {
+    "code": "55008b",
+    "faction_code": "encounter",
+    "name": "Trance of Greed",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55009a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment",
+    "back_link": "55009b"
+  },
+  {
+    "code": "55009b",
+    "faction_code": "encounter",
+    "name": "Trance of Pride",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55010a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment",
+    "back_link": "55010b"
+  },
+  {
+    "code": "55010b",
+    "faction_code": "encounter",
+    "name": "Trance of Sloth",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55011a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment",
+    "back_link": "55011b"
+  },
+  {
+    "code": "55011b",
+    "faction_code": "encounter",
+    "name": "Trance of Wrath",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55012",
+    "faction_code": "encounter",
+    "name": "Alluring Call",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55013",
+    "faction_code": "encounter",
+    "name": "Kiss of Temptation",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55014",
+    "faction_code": "encounter",
+    "name": "Love Concoction",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55015",
+    "faction_code": "encounter",
+    "name": "Seduced",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55016",
+    "faction_code": "encounter",
+    "name": "Crown of the Enchantress",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55017",
+    "faction_code": "encounter",
+    "name": "Enthralled Lackey",
+    "pack_code": "trickster_takeover",
+    "quantity": 2,
+    "set_code": "enchantress",
+    "type_code": "minion"
+  },
+  {
+    "code": "55018",
+    "faction_code": "encounter",
+    "name": "Enthralled Brute",
+    "pack_code": "trickster_takeover",
+    "quantity": 2,
+    "set_code": "enchantress",
+    "type_code": "minion"
+  },
+  {
+    "code": "55019",
+    "faction_code": "encounter",
+    "name": "Sindr",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "minion"
+  },
+  {
+    "code": "55020",
+    "faction_code": "encounter",
+    "name": "Ulik",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "minion"
+  },
+  {
+    "code": "55021",
+    "faction_code": "encounter",
+    "name": "Law of Attraction",
+    "pack_code": "trickster_takeover",
+    "quantity": 2,
+    "set_code": "enchantress",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55022",
+    "faction_code": "encounter",
+    "name": "Spellbound",
+    "pack_code": "trickster_takeover",
+    "quantity": 2,
+    "set_code": "enchantress",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55023",
+    "faction_code": "encounter",
+    "name": "Do My Bidding",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55024",
+    "faction_code": "encounter",
+    "name": "Magical Restraints",
+    "pack_code": "trickster_takeover",
+    "quantity": 2,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55025",
+    "faction_code": "encounter",
+    "name": "Spell Blast",
+    "pack_code": "trickster_takeover",
+    "quantity": 2,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55026",
+    "faction_code": "encounter",
+    "name": "Spell Shards",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "enchantress",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55027a",
+    "faction_code": "encounter",
+    "name": "Loki, God of Lies",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain",
+    "back_link": "55027b"
+  },
+  {
+    "code": "55027b",
+    "faction_code": "encounter",
+    "name": "Loki, God of Lies",
+    "pack_code": "trickster_takeover",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain"
+  }
+]
