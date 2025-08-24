@@ -1552,7 +1552,7 @@
 	{
 		"code": "growing_strong",
 		"name": "Growing Strong",
-    "card_set_type_code": "modular"
+		"card_set_type_code": "modular"
 	},
 	{
 		"code": "black_panther_shuri",
@@ -1597,6 +1597,21 @@
 	{
 		"code": "whiteout",
 		"name": "Whiteout",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "enchantress_villain",
+		"name": "Enchantress",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "god_of_lies",
+		"name": "God of Lies",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "trickster_magic",
+		"name": "Trickster Magic",
 		"card_set_type_code": "modular"
 	}
 ]
