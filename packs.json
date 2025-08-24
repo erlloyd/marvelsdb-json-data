@@ -538,14 +538,24 @@
 		"position": 53,
 		"size": 60
 	},
-	{
-		"cgdb_id": 54,
-		"code": "winter",
-		"date_release": "2025-06-20",
-		"name": "Winter Soldier",
-		"octgn_id": "8e74fa84-01d6-42e0-8b7d-b02638e96f5c",
-		"pack_type_code": "hero",
-		"position": 54,
-		"size": 60
-	}
+        {
+                "cgdb_id": 54,
+                "code": "winter",
+                "date_release": "2025-06-20",
+                "name": "Winter Soldier",
+                "octgn_id": "8e74fa84-01d6-42e0-8b7d-b02638e96f5c",
+                "pack_type_code": "hero",
+                "position": 54,
+                "size": 60
+        },
+        {
+                "cgdb_id": 55,
+                "code": "trickster_takeover",
+                "date_release": "2025-08-22",
+                "name": "Trickster Takeover",
+                "octgn_id": "01241dea-434c-4d22-b870-a5d73c96148e",
+                "pack_type_code": "scenario",
+                "position": 55,
+                "size": 66
+        }
 ]
