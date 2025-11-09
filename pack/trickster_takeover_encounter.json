@@ -1,0 +1,746 @@
+[
+  {
+    "code": "55001",
+    "faction_code": "encounter",
+    "name": "Enchantress (I)",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "villain"
+  },
+  {
+    "code": "55002",
+    "faction_code": "encounter",
+    "name": "Enchantress (II)",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "villain"
+  },
+  {
+    "code": "55003",
+    "faction_code": "encounter",
+    "name": "Enchantress (III)",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "villain"
+  },
+  {
+    "code": "55004a",
+    "faction_code": "encounter",
+    "name": "Prime Real Estate",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "main_scheme",
+    "back_link": "55004b"
+  },
+  {
+    "code": "55004b",
+    "faction_code": "encounter",
+    "name": "Prime Real Estate",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "main_scheme"
+  },
+  {
+    "code": "55005a",
+    "faction_code": "encounter",
+    "name": "Sovereign Sorceress",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "main_scheme",
+    "back_link": "55005b"
+  },
+  {
+    "code": "55005b",
+    "faction_code": "encounter",
+    "name": "Sovereign Sorceress",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "main_scheme"
+  },
+  {
+    "code": "55006",
+    "faction_code": "encounter",
+    "name": "Future of Despair",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55007a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment",
+    "back_link": "55007b"
+  },
+  {
+    "code": "55007b",
+    "faction_code": "encounter",
+    "name": "Trance of Envy",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55008a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment",
+    "back_link": "55008b"
+  },
+  {
+    "code": "55008b",
+    "faction_code": "encounter",
+    "name": "Trance of Greed",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55009a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment",
+    "back_link": "55009b"
+  },
+  {
+    "code": "55009b",
+    "faction_code": "encounter",
+    "name": "Trance of Pride",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55010a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment",
+    "back_link": "55010b"
+  },
+  {
+    "code": "55010b",
+    "faction_code": "encounter",
+    "name": "Trance of Sloth",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55011a",
+    "faction_code": "encounter",
+    "name": "Hypnotic Gaze",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment",
+    "back_link": "55011b"
+  },
+  {
+    "code": "55011b",
+    "faction_code": "encounter",
+    "name": "Trance of Wrath",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55012",
+    "faction_code": "encounter",
+    "name": "Alluring Call",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55013",
+    "faction_code": "encounter",
+    "name": "Kiss of Temptation",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55014",
+    "faction_code": "encounter",
+    "name": "Love Concoction",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55015",
+    "faction_code": "encounter",
+    "name": "Seduced",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55016",
+    "faction_code": "encounter",
+    "name": "Crown of the Enchantress",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55017",
+    "faction_code": "encounter",
+    "name": "Enthralled Lackey",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "enchantress_villain",
+    "type_code": "minion"
+  },
+  {
+    "code": "55018",
+    "faction_code": "encounter",
+    "name": "Enthralled Brute",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "enchantress_villain",
+    "type_code": "minion"
+  },
+  {
+    "code": "55019",
+    "faction_code": "encounter",
+    "name": "Sindr",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "minion"
+  },
+  {
+    "code": "55020",
+    "faction_code": "encounter",
+    "name": "Ulik",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "minion"
+  },
+  {
+    "code": "55021",
+    "faction_code": "encounter",
+    "name": "Law of Attraction",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "enchantress_villain",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55022",
+    "faction_code": "encounter",
+    "name": "Spellbound",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "enchantress_villain",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55023",
+    "faction_code": "encounter",
+    "name": "Do My Bidding",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55024",
+    "faction_code": "encounter",
+    "name": "Magical Restraints",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55025",
+    "faction_code": "encounter",
+    "name": "Spell Blast",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55026",
+    "faction_code": "encounter",
+    "name": "Spell Shards",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "enchantress_villain",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55027a",
+    "faction_code": "encounter",
+    "name": "Loki, God of Lies",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain",
+    "back_link": "55027b"
+  },
+  {
+    "code": "55027b",
+    "faction_code": "encounter",
+    "name": "Loki, God of Lies",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain"
+  },
+  {
+    "code": "55028a",
+    "faction_code": "encounter",
+    "name": "Worlds Collide",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "main_scheme",
+    "back_link": "55028b"
+  },
+  {
+    "code": "55028b",
+    "faction_code": "encounter",
+    "name": "Worlds Collide",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "main_scheme"
+  },
+  {
+    "code": "55029a",
+    "faction_code": "encounter",
+    "name": "Loki, the Rascal",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain",
+    "back_link": "55029b"
+  },
+  {
+    "code": "55029b",
+    "faction_code": "encounter",
+    "name": "Fading Figment",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain"
+  },
+  {
+    "code": "55030a",
+    "faction_code": "encounter",
+    "name": "Loki, the Miscreant",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain",
+    "back_link": "55030b"
+  },
+  {
+    "code": "55030b",
+    "faction_code": "encounter",
+    "name": "Fading Figment",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain"
+  },
+  {
+    "code": "55031a",
+    "faction_code": "encounter",
+    "name": "Loki, the Knave",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain",
+    "back_link": "55031b"
+  },
+  {
+    "code": "55031b",
+    "faction_code": "encounter",
+    "name": "Fading Figment",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain"
+  },
+  {
+    "code": "55032a",
+    "faction_code": "encounter",
+    "name": "Loki, the Wretch",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain",
+    "back_link": "55032b"
+  },
+  {
+    "code": "55032b",
+    "faction_code": "encounter",
+    "name": "Fading Figment",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "villain"
+  },
+  {
+    "code": "55033a",
+    "faction_code": "encounter",
+    "name": "Mischief and Mayhem",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "main_scheme",
+    "back_link": "55033b"
+  },
+  {
+    "code": "55033b",
+    "faction_code": "encounter",
+    "name": "Mischief and Mayhem",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "main_scheme"
+  },
+  {
+    "code": "55034a",
+    "faction_code": "encounter",
+    "name": "Intense Focus",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "attachment",
+    "back_link": "55034b"
+  },
+  {
+    "code": "55034b",
+    "faction_code": "encounter",
+    "name": "Total Focus",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55035",
+    "faction_code": "encounter",
+    "name": "Wrapped in Chains",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55036",
+    "faction_code": "encounter",
+    "name": "Dark Scepter",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55037",
+    "faction_code": "encounter",
+    "name": "Draugr Buddy",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55038",
+    "faction_code": "encounter",
+    "name": "Grendell",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55039",
+    "faction_code": "encounter",
+    "name": "Malekith",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55040",
+    "faction_code": "encounter",
+    "name": "Minotaur",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55041",
+    "faction_code": "encounter",
+    "name": "The Mangog",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55042",
+    "faction_code": "encounter",
+    "name": "Fenris Wolf",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55043",
+    "faction_code": "encounter",
+    "name": "Hraesvelgr",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55044",
+    "faction_code": "encounter",
+    "name": "Laufey",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "minion"
+  },
+  {
+    "code": "55045",
+    "faction_code": "encounter",
+    "name": "Aura of Stasis",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55046",
+    "faction_code": "encounter",
+    "name": "Door Between Worlds",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55047",
+    "faction_code": "encounter",
+    "name": "Lofty Goals",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "god_of_lies",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55048",
+    "faction_code": "encounter",
+    "name": "New Jotunheim",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55049",
+    "faction_code": "encounter",
+    "name": "Dark Arts",
+    "pack_code": "tt",
+    "quantity": 2,
+    "set_code": "god_of_lies",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55050",
+    "faction_code": "encounter",
+    "name": "Dirty Trick",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55051",
+    "faction_code": "encounter",
+    "name": "Stories and Lies",
+    "pack_code": "tt",
+    "quantity": 3,
+    "set_code": "god_of_lies",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55052",
+    "faction_code": "encounter",
+    "name": "Domineering Force",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "environment"
+  },
+  {
+    "code": "55053",
+    "faction_code": "encounter",
+    "name": "Feigned Retreat",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "environment"
+  },
+  {
+    "code": "55054",
+    "faction_code": "encounter",
+    "name": "Mounting Resistance",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "environment"
+  },
+  {
+    "code": "55055",
+    "faction_code": "encounter",
+    "name": "Unified Front",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "god_of_lies",
+    "type_code": "environment"
+  },
+  {
+    "code": "55056",
+    "faction_code": "encounter",
+    "name": "Absorbing Man",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "minion"
+  },
+  {
+    "code": "55057",
+    "faction_code": "encounter",
+    "name": "Titania",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "minion"
+  },
+  {
+    "code": "55058",
+    "faction_code": "encounter",
+    "name": "Whirlwind",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "minion"
+  },
+  {
+    "code": "55059",
+    "faction_code": "encounter",
+    "name": "Zzzax",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "minion"
+  },
+  {
+    "code": "55060",
+    "faction_code": "encounter",
+    "name": "The Trickster Tango",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "side_scheme"
+  },
+  {
+    "code": "55061",
+    "faction_code": "encounter",
+    "name": "Puppet Master",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "treachery"
+  },
+  {
+    "code": "55062",
+    "faction_code": "encounter",
+    "name": "Love Triangle",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "attachment"
+  },
+  {
+    "code": "55063",
+    "faction_code": "basic",
+    "name": "Absorbing Man",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "ally"
+  },
+  {
+    "code": "55064",
+    "faction_code": "basic",
+    "name": "Titania",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "ally"
+  },
+  {
+    "code": "55065",
+    "faction_code": "basic",
+    "name": "Whirlwind",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "ally"
+  },
+  {
+    "code": "55066",
+    "faction_code": "basic",
+    "name": "Zzzax",
+    "pack_code": "tt",
+    "quantity": 1,
+    "set_code": "trickster_magic",
+    "type_code": "ally"
+  }
+]

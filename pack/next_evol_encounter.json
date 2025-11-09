@@ -529,6 +529,16 @@
         "type_code": "main_scheme"
     },
     {
+        "code": "40078a",
+        "back_link": "40078b",
+        "faction_code": "encounter",
+        "name": "Mutant Massacre",
+        "pack_code": "next_evol",
+        "quantity": 1,
+        "set_code": "morlock_siege",
+        "type_code": "main_scheme"
+    },
+    {
         "base_threat": 1,
         "code": "40077b",
         "escalation_threat": 1,
@@ -565,6 +575,7 @@
         "type_code": "main_scheme"
     },
     {
+        "back_text": "<b>When Revealed</b>: Each player puts 1 set-aside Morlock ally into play under their control (2 set-aside Morlock allies instead if this is a single-player game). Shuffle the Hide! treachery into the encounter deck. If the previous stage was advanced by knock counters, give each Morlock ally a tough status card.",
         "base_threat": 0,
         "base_threat_fixed": true,
         "code": "40078b",
@@ -1084,6 +1095,8 @@
         "type_code": "main_scheme"
     },
     {
+        "back_flavor": "Having taken a pounding, the Marauders redouble their efforts to escape with their captive.",
+        "back_text": "<b>When Revealed</b>: Each player searches the encounter deck and discard pile for a [[MARAUDER]] minion and puts that minion into play engaged with them. <i>(Shuffle.)</i> Give each [[MARAUDER]] enemy a tough status card.",
         "base_threat": 1,
         "code": "40104b",
         "escalation_threat": 2,
@@ -1100,6 +1113,16 @@
         "stage": "2B",
         "text": "Each [[MARAUDER]] minion gains guard and steady. In expert mode, the villain gains steady.\n<b>If the villain is defeated, the players win the game.</b>\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
+        "type_code": "main_scheme"
+    },
+    {
+        "code": "40104a",
+        "back_link": "40104b",
+        "quantity": 1,
+        "faction_code": "encounter",
+        "name": "Escaping with Hope",
+        "pack_code": "next_evol",
+        "set_code": "on_the_run",
         "type_code": "main_scheme"
     },
     {
